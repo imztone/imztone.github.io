@@ -11,7 +11,7 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Running Page',
-  siteUrl: 'https://run.imzt.one',
+  siteUrl: 'https://runnning.imzt.one',
   logo: 'https://avatars.githubusercontent.com/u/33047106?v=4',
   description: 'Personal site and blog',
   navLinks: [
